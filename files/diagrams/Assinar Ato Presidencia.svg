@@ -42,8 +42,8 @@
       </g>
       <svg width="30" height="261" class="djs-svg-text">
         <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 261)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="20.29955" y="11.75">Assessoria De Documentação, Informação E </tspan>
-          <tspan x="86.104" y="24.75">Memória - ADOM</tspan>
+          <tspan x="20.29956" y="11.75">Assessoria De Documentação, Informação E </tspan>
+          <tspan x="86.10401" y="24.75">Memória - ADOM</tspan>
         </text>
       </svg>
     </g>
@@ -93,10 +93,10 @@
       </g>
       <svg width="132" height="89" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="10.51475" y="30.25">Criar 2a via do Ato de </tspan>
+          <tspan x="10.51476" y="30.25">Criar 2a via do Ato de </tspan>
           <tspan x="9.335045" y="43.25">nomeação/tornar sem </tspan>
           <tspan x="14.92247" y="56.25">efeito  e determinar </tspan>
-          <tspan x="9.542458" y="69.25">aquivamento da 1a via</tspan>
+          <tspan x="9.542465" y="69.25">aquivamento da 1a via</tspan>
         </text>
       </svg>
     </g>
@@ -128,7 +128,7 @@
       </g>
       <svg width="123" height="79" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="7.894501" y="31.75">Aquivar 1a via Ato de</tspan>
+          <tspan x="7.894516" y="31.75">Aquivar 1a via Ato de</tspan>
           <tspan x="6.299957" y="44.75">nomeação/tornar sem</tspan>
           <tspan x="46.91827" y="57.75">efeito</tspan>
         </text>
@@ -151,12 +151,12 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 638, 907)" id="gfx-2a6d9e9f-e1e5-4691-885e-df30fd3c1dce" display="block" class="djs-element djs-shape" data-element-id="2a6d9e9f-e1e5-4691-885e-df30fd3c1dce">
+    <g transform="matrix(1, 0, 0, 1, 638, 907)" id="gfx-57391afd-f370-48a8-ab72-0bbb45cc0cb4" display="block" class="djs-element djs-shape" data-element-id="57391afd-f370-48a8-ab72-0bbb45cc0cb4">
       <g class="djs-visual">
         <rect x="0" y="0" width="118" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="118" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-            <tspan x="9.70369" y="14.75">Publicar Ato em DO</tspan>
+            <tspan x="9.703697" y="14.75">Publicar Ato em DO</tspan>
           </text>
         </svg>
       </g>
@@ -231,7 +231,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 826, 503)" id="gfx-779081f5-271f-4f0d-96ea-99fd960cb172" display="block" class="djs-element djs-shape" data-element-id="779081f5-271f-4f0d-96ea-99fd960cb172">
+    <g transform="matrix(1, 0, 0, 1, 826, 503)" id="gfx-4355a340-960d-496f-bc5e-0328e2712b11" display="block" class="djs-element djs-shape" data-element-id="4355a340-960d-496f-bc5e-0328e2712b11">
       <g class="djs-visual">
         <rect x="0" y="0" width="50" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="50" height="25" class="djs-svg-text">
@@ -253,7 +253,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 815, 367)" id="gfx-8029646c-3265-40be-9738-5ee9fbc603bb" display="block" class="djs-element djs-shape" data-element-id="8029646c-3265-40be-9738-5ee9fbc603bb">
+    <g transform="matrix(1, 0, 0, 1, 815, 367)" id="gfx-6bf4df31-5f7c-4c25-b06b-18cea8ec2538" display="block" class="djs-element djs-shape" data-element-id="6bf4df31-5f7c-4c25-b06b-18cea8ec2538">
       <g class="djs-visual">
         <rect x="0" y="0" width="50" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="50" height="25" class="djs-svg-text">
@@ -277,13 +277,13 @@
         </text>
       </svg>
       <text transform="translate(0, 68)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
-        <tspan x="47.99486" y="13.25">Autor:</tspan>
+        <tspan x="47.99487" y="13.25">Autor:</tspan>
       </text>
       <text transform="translate(0, 88)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
         <tspan x="43.81532" y="13.25">Versão:</tspan>
       </text>
       <text transform="translate(0, 108)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
-        <tspan x="29.18692" y="13.25">Descrição:</tspan>
+        <tspan x="29.18694" y="13.25">Descrição:</tspan>
       </text>
       <text transform="translate(100, 68)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
         <tspan x="0" y="13.25">Escritório de Processos </tspan>
@@ -439,7 +439,7 @@
         <g>
           <defs>
             <marker refX="5.5" refY="4" orient="auto" markerWidth="10" markerHeight="8" id="arrowAssociation2e6215c4-afe3-45aa-a6fd-534b691ee741">
-              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="stroke:black;" />
+              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="fill:none;stroke:black;" />
             </marker>
           </defs>
           <path d="M759 509 L784 509 C784 509 790 509 790 503 L790 477 C790 477 790 471 796 471 L831 471" marker-end="url(#arrowAssociation2e6215c4-afe3-45aa-a6fd-534b691ee741)" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
@@ -453,7 +453,7 @@
         <g>
           <defs>
             <marker refX="5.5" refY="4" orient="auto" markerWidth="10" markerHeight="8" id="arrowAssociation3bd57435-77fb-4482-9599-2ffcd5494f66">
-              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="stroke:black;" />
+              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="fill:none;stroke:black;" />
             </marker>
           </defs>
           <path d="M746 361 L769 361 C769 361 775 361 775 355 L775 342 C775 342 775 336 781 336 L820 336" marker-end="url(#arrowAssociation3bd57435-77fb-4482-9599-2ffcd5494f66)" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
